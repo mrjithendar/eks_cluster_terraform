@@ -1,5 +1,5 @@
 ###### root/.gitgnore
-
+.terraform.lock.hcl
 
 # Local .terraform directories
 **/.terraform/*
